@@ -1,0 +1,11 @@
+[package]
+name = "scrabble-utils"
+version = "0.0.0"
+authors = ["Craig M. Brandenburg <c.m.brandenburg@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+
+[lib]
+name = "scrabble"
+path = "src/lib/lib.rs"
